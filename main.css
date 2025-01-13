@@ -42,7 +42,6 @@
   --heo-theme-none: #4375ff01;
   --heo-blue: #3478f5;
   --heo-red: #D8213C;
-  --heo-zy: #ffc635;
   --heo-pink: #FF7C7C;
   --heo-green: #28a63f;
   --heo-yellow: #c28b00;
@@ -150,10 +149,6 @@ sup {
 
 sup.hot {
   background: var(--heo-red);
-}
-
-sup.zy {
-  background: var(--heo-zy);
 }
 
 img {
@@ -467,7 +462,7 @@ a.linkbutton:active {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 88px 0 0 0;
+  padding: 94px 0 0 0;
   height: fit-content;
   margin: 40px 0;
   overflow: hidden;
