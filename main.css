@@ -151,6 +151,10 @@ sup.hot {
   background: var(--heo-red);
 }
 
+sup.zy {
+  background: var(--heo-orange);
+}
+
 img {
   user-select:none;
   -webkit-user-drag: none;
